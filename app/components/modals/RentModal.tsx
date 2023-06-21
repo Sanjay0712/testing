@@ -18,7 +18,7 @@ import { categories } from '../navbar/Categories';
 import CategoryInput from '../inputs/Categoryinput';
 import CountrySelect from "../inputs/CountrySelect";
 import Counter from "../inputs/Counter";
-import Input from '../inputs/input';
+import Input from '../inputs/Input';
 import Heading from '../Heading';
 import ImageUpload from '../inputs/ImageUpload';
 
